@@ -23,7 +23,10 @@ My Favorite Song For Now
 
 https://user-images.githubusercontent.com/129393234/228968003-2f1b4cb8-4ea3-42e5-ab4c-38aba8bcb305.mp4
 
-
+​
+<p align="center">
+  <mp4 src=" https://user-images.githubusercontent.com/129393234/228968003-2f1b4cb8-4ea3-42e5-ab4c-38aba8bcb305.mp4" />
+</p>
 
 <!---
 DreamGuyXeon/DreamGuyXeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
