@@ -5,6 +5,8 @@
   <img src="https://telegra.ph/file/1f4573c913fe24a42907b.jpg" />
 </p>
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 - 👋 Hi, I’m Vino
 - ❎ I am just a student
 - 👨🏻‍🦱 14 years old
