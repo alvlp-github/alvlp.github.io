@@ -1,4 +1,4 @@
-About Me
+: About Me:
 
 <p align="center">
   <img src="https://telegra.ph/file/cde93dcd710dc522948b0.jpg" />
@@ -14,9 +14,9 @@ About Me
 
 <p align="center">
 <a href="https://youtube.com/@alvlp-fun"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@alvlp-fun" /><br>
-<a href="http://Wa.me/6285161710084">
-    <img src="https://img.shields.io/badge/WhatsApp-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
+<a href="http://Wa.me/6285161710084"><img src="https://img.shields.io/badge/WhatsApp-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+<a href="https://instagram.com/220.111tg?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+</a>
 
 ---
 
