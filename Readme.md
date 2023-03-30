@@ -22,11 +22,10 @@
 ---
 
 ### :My Stats :
-<p align="center"><a href="https://github.com/alvlp-github/followers"><img title="Followers" src="https://img.shields.io/github/followers/ALVLP?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=ALVLP&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ALVLP&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/alvlp-github"><img src="https://github-readme-stats.vercel.app/api?username=ALVLP&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/alvlp-github"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVLP&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/alvlp-github"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVLP&theme=radical&layout=compact"></a>
+</p>
 
 ---
 
