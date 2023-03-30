@@ -10,7 +10,7 @@
 - 🇮🇩 living in Indonesia
 - My Hobby is screaming like "kuntilanak kejepit septitenk"
 
-<a href="https://ngl.link/alvlp.id"><img src="https://telegra.ph/file/d6b070a06a9aaa1187bb8.png" alt="Ask Me Question"/>
+<a href="https://ngl.link/alvlp.id"><img src="https://telegra.ph/file/af67138cec7434d230a6c.png" alt="Ask Me Question"/>
 
 ---
 
