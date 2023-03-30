@@ -1,4 +1,4 @@
-: About Me:
+# About Me 🙂
 ![Project_03-31(1)_Full HD 1080p_HIGH_FR30](https://user-images.githubusercontent.com/129393234/228983232-e225f247-3f22-4419-8504-4c863c907880.gif)
 
 <p align="center">
