@@ -1,4 +1,4 @@
-### :About Me :
+About Me
 
 <p align="center">
   <img src="https://telegra.ph/file/cde93dcd710dc522948b0.jpg" />
@@ -17,14 +17,6 @@
 <a href="http://Wa.me/6285161710084">
     <img src="https://img.shields.io/badge/WhatsApp-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-</p>
-
----
-
-### :My Stats :
-</p>
-<p align="center"><a href="https://github.com/alvlp-github"><img src="https://github-readme-stats.vercel.app/api?username=ALVLP&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/alvlp-github"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVLP&theme=radical&layout=compact"></a>
 </p>
 
 ---
