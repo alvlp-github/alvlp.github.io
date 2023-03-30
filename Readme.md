@@ -1,7 +1,7 @@
 : About Me:
 
 <p align="center">
-  <img src="https://telegra.ph/file/cde93dcd710dc522948b0.jpg" />
+  <img src="https://telegra.ph/file/1f4573c913fe24a42907b.jpg" />
 </p>
 
 - 👋 Hi, I’m Vino
