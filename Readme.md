@@ -17,9 +17,9 @@ About Me
 <a href="http://Wa.me/6285161710084">
     <img src="https://img.shields.io/badge/WhatsApp-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-</p>
 
 ---
+
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
