@@ -20,7 +20,7 @@
 <a href="https://instagram.com/220.111tg?igshid=ZDdkNTZiNTM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ff000000&link=https://instagram.com/220.111tg?igshid=ZDdkNTZiNTM" /><br>
 </a>
 
-<details open="" class="details-reset border rounded-2">
+<details close="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
@@ -28,6 +28,10 @@
     <span aria-label="Video description Rokudenashi.mp4" class="m-1">My Favorite Song For Now :)</span>
     <span class="dropdown-caret"></span>
   </summary>
+
+  <video src="https://user-images.githubusercontent.com/129393234/228968003-2f1b4cb8-4ea3-42e5-ab4c-38aba8bcb305.mp4 " data-canonical-src="https://user-images.githubusercontent.com/129393234/228968003-2f1b4cb8-4ea3-42e5-ab4c-38aba8bcb305.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+
+  </video>
 
   <video src="https://user-images.githubusercontent.com/129393234/228968003-2f1b4cb8-4ea3-42e5-ab4c-38aba8bcb305.mp4 " data-canonical-src="https://user-images.githubusercontent.com/129393234/228968003-2f1b4cb8-4ea3-42e5-ab4c-38aba8bcb305.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
