@@ -30,11 +30,6 @@
   </summary>
 
   <video src="https://user-images.githubusercontent.com/129393234/229090887-40e8dafd-dcdb-44f6-b38d-5f39cebc89ab.mp4" data-canonical-src="https://user-images.githubusercontent.com/129393234/229090887-40e8dafd-dcdb-44f6-b38d-5f39cebc89ab.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-
-  </video>
-
-  <video src="https://youtu.be/dvxZQ3QM2ck" data-canonical-src="https://youtu.be/dvxZQ3QM2ck" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-
   </video>
 </details>
 
